@@ -1,0 +1,37 @@
+{
+  "users":[
+    {
+      "username" : "rey",
+      "userid" : 0
+    },
+    {
+      "username" : "lukeSkywalker",
+      "userid" : 1
+    },
+    {
+      "username" : "daenerysStormborn",
+      "userid" : 2
+    },
+    {
+      "username" : "khalDrogo",
+      "userid" : 3
+    }
+  ],
+  "posts":[
+    {
+      "postid":0,
+      "userid": 1,
+      "data": "I lost my lightsaber, anyone seen it?"
+    },
+    {
+      "postid":1,
+      "userid": 0,
+      "data": "Found lightsaber, looking for owner"
+    },
+    {
+      "postid":3,
+      "userid": 1,
+      "data": "Guess How many dragons I have"
+    }
+  ]
+}
